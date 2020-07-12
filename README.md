@@ -1,0 +1,2 @@
+# python_personal_notebook1
+个人python笔记，记录常用的命令等等
